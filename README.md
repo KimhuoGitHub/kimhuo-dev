@@ -12,8 +12,8 @@
 - **Tools:** Git, Fastlane, Firebase
 
 ### 📫 Let's Connect
-- 🌐 Portfolio: [kimhuo-dev.vercel.app/]
-- 💼 LinkedIn: [linkedin.com/in/kimhuo]
+- 🌐 Portfolio: [kimhuo-dev.vercel.app] (https://kimhuo-dev.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/kimhuo] (https://linkedin.com/in/kimhuo)
 - 📧 Email: kimhuo99@gmail.com
 
 ⚡ Currently seeking senior React Native positions (remote/hybrid)
